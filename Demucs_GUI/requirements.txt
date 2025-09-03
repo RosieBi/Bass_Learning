@@ -1,0 +1,9 @@
+keyboard
+mutagen
+pygame
+Pillow
+pydub
+flask
+customtkinter
+CTkListbox
+demucs
