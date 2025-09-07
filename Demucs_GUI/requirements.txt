@@ -7,3 +7,4 @@ flask
 customtkinter
 CTkListbox
 demucs
+spotdl
